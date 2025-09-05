@@ -1,0 +1,15 @@
+# VS Code
+.vscode/
+
+# Build output directories
+build/
+install/
+log/
+
+# Python artifacts
+*.pyc
+__pycache__/
+
+# Colcon files (for build management)
+COLCON_IGNORE
+AMENT_IGNORE
